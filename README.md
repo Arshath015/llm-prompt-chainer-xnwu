@@ -128,3 +128,10 @@ The LLM Prompt Chainer submodule is licensed under the MIT License.
 
 ---
 **Last updated:** 2026-07-16
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```

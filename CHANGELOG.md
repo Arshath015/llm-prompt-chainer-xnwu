@@ -43,3 +43,6 @@ All notable changes to this project are documented here.
 
 ### 2026-11-21
 - Documentation pass for clarity and consistency.
+
+### 2026-11-22
+- Routine maintenance checkpoint.
